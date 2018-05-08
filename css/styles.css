@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Sans-serif;
+	font-size: 16px;
+    background: rgba(174, 255, 53, .7);
+}
+
+.main {
+	width: 90%;
+	max-width: 1000px;
+	margin: 20px auto;
+	/* overflow: hidden; */
+}
+
+img {
+    width: 300px;
+}
